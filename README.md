@@ -65,3 +65,93 @@
 </a>
 
 </div>
+<!-- ========================= -->
+<!-- DEVRAJ SHARMA PROFILE     -->
+<!-- ========================= -->
+
+<div align="center">
+
+<h2>🚀 Developer • AI Enthusiast • Creative Technologist</h2>
+
+<p>
+Building with <b>AI</b>, <b>Web Technologies</b> & <b>Creative Digital Solutions</b>
+</p>
+
+</div>
+
+---
+
+## 🏆 Hackathon Achievements
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h2>🥈 2nd Place</h2>
+
+<b>Innovate 3.0 Hackathon</b><br>
+IGDTUW
+
+<br><br>
+
+<b>Project:</b><br>
+AI & I – The Dilemma
+
+</td>
+
+<td align="center" width="50%">
+
+<h2>🥈 2nd Place</h2>
+
+<b>HackWithMAIT 6.0</b>
+
+<br><br>
+
+<b>Project:</b><br>
+AI & I – The Dilemma
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ISRO-Bharatiya%20Antariksh%20Hackathon-0A101F?style=for-the-badge&logoColor=white"/>
+
+<br>
+
+<b>Participant — Bharatiya Antariksh Hackathon</b>
+
+</div>
+
+---
+
+## 🤖 Featured Project
+
+<div align="center">
+
+<h2>AI & I – The Dilemma</h2>
+
+<p>
+An AI-powered educational platform exploring the difference between
+<b>human thinking</b> and <b>AI thinking</b> through interactive challenges.
+</p>
+
+</div>
+
+### What I Built
+
+- 🧠 Interactive learning experiences focused on **creativity and critical thinking**
+- 🤖 AI-focused educational challenges
+- 🎯 Learning modules promoting **responsible AI usage**
+- 🚀 Successfully presented at multiple national-level hackathons
+
+### Recognition
+
+```text
+🥈 Innovate 3.0 Hackathon — IGDTUW
+🥈 HackWithMAIT 6.0
